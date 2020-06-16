@@ -20,8 +20,7 @@ it was ok to use it for this assessment.  You may need to add the plugin for Lom
 - http://localhost:8080/user/city/London?milesRadius=50
 
 #### 2) Swagger hub
-The following URL will output the OpenAPI swagger UI.  Similar interface is available to the provided bpdts-test-app.herokuapp.com
-Once the application is running you can access it on this url.
+The following URL will output the OpenAPI swagger UI. The link provided a Similar interface to the provided one for the assesment.  
 
 - http://localhost:8080/
 
