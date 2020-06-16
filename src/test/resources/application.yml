@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: People Search
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    password: password
+    username: sa
+  h2:
+    console:
+      enabled: true
+
+application:
+  heroku-url: https://bpdts-test-app.herokuapp.com
+
+springdoc:
+  swagger-ui:
+    path: /

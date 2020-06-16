@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "first_name": "testFirstName1",
+    "last_name": "testLastName1",
+    "email": "downingstreet@london-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 51.5033635,
+    "longitude": -0.1276248,
+    "city": "London"
+  },
+  {
+    "id": 2,
+    "first_name": "testFirstName2",
+    "last_name": "testLastName2",
+    "email": "euston@london-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 51.5280991,
+    "longitude": -0.1332084,
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "first_name": "testFirstName3",
+    "last_name": "testLastName3",
+    "email": "sale@manc-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 53.4276778,
+    "longitude": -2.3088056,
+    "city": "Manchester"
+  },
+  {
+    "id": 4,
+    "first_name": "testFirstName4",
+    "last_name": "testLastName4",
+    "email": "oxfordroad@manc-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 53.4750767,
+    "longitude": -2.2409506,
+    "city": "Manchester"
+  },
+  {
+    "id": 5,
+    "first_name": "testFirstName5",
+    "last_name": "testLastName5",
+    "email": "peters-square@manc-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 53.4773782,
+    "longitude": -2.2449969,
+    "city": "Manchester"
+  },
+  {
+    "id": 6,
+    "first_name": "testFirstName6",
+    "last_name": "testLastName6",
+    "email": "airport@manc-email.com",
+    "ip_address": "10.0.0.1",
+    "latitude": 53.3588026,
+    "longitude": -2.2727303,
+    "city": "Manchester"
+  }
+]

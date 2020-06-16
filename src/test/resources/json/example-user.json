@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "first_name": "firstName",
+  "last_name": "lastName",
+  "email": "peterssquare@email.com",
+  "ip_address": "141.49.93.0",
+  "latitude": 53.4773782,
+  "longitude": -2.2449969,
+  "city": "testCity"
+}
