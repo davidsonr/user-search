@@ -1,7 +1,5 @@
 # User Search.
 
-Please see following design and assumption decisions.
-
 Accessing the application.
 
 The application is written in Java11 and built with Maven.
@@ -11,19 +9,18 @@ mvn clean install
 java -jar target/user-search-1.jar
 ```
 
-I  made use of Lombok for reducing boilerplate code.  Used Lombok previously at DWP in Blackpool so assumed that
+I  made use of Lombok for reducing boilerplate code. Used Lombok previously at DWP in Blackpool so assumed that
 it was ok to use it for this assessment.  You may need to add the plugin for Lombok in your IDE if you don't already have it.
 
 There are two ways you can access the application
 
-### Access the URL's directly 
+### 1) Access the URL's directly 
 http://localhost:8080/user/city/London
 http://localhost:8080/user/city/London?milesRadius=50
 
-### Swagger hub
+### 2) Swagger hub
 The following URL will output the OpenAPI swagger UI.  Similar to the provided provided herokuapp
 http://localhost:8080/
-
 
 ## Notes / findings
 
