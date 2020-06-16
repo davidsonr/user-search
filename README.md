@@ -15,8 +15,9 @@ it was ok to use it for this assessment.  You may need to add the plugin for Lom
 There are two ways you can access the application
 
 ### 1) Access the URL's directly 
-http://localhost:8080/user/city/London
-http://localhost:8080/user/city/London?milesRadius=50
+
+- http://localhost:8080/user/city/London
+- http://localhost:8080/user/city/London?milesRadius=50
 
 ### 2) Swagger hub
 The following URL will output the OpenAPI swagger UI.  Similar to the provided provided herokuapp
