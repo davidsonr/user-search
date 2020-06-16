@@ -20,7 +20,7 @@ it was ok to use it for this assessment.  You may need to add the plugin for Lom
 - http://localhost:8080/user/city/London?milesRadius=50
 
 #### 2) Swagger hub
-The following URL will output the OpenAPI swagger UI. The link provided a Similar interface to the provided one for the assesment.  
+The following URL will output the OpenAPI swagger UI. The interface is similar to the provided one for the assessment.  
 
 - http://localhost:8080/
 
@@ -29,10 +29,7 @@ The following URL will output the OpenAPI swagger UI. The link provided a Simila
 The following url
 https://bpdts-test-app.herokuapp.com/city/London/users
 
-Returns users where latitude and longitude does not map to London? However for purpose of this test I assumed that
-they do map to London and its just because the data is anonymised.
-
-e.g. 
+outputs a user like this 
 ```json
 {
 "id": 135,
@@ -44,6 +41,9 @@ e.g.
 "longitude": 105.652983
 }
 ```
+However the latitude and longitude do not map to London? For the purpose of this test I assumed that
+they do map to London and its just because the data is anonymised.
+
 
 #### Another finding
 https://bpdts-test-app.herokuapp.com/user/1
